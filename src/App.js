@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import "leaflet/dist/leaflet.css";
 import PlotMap from './Pages/ProjectLayout';
